@@ -28,6 +28,10 @@ floor	tag	Top left	Bottom left	Top right	Bottom right
 		167,15,6,1,1	44,15,6,1,0	166,7,6,0,0	164,7,6,0,1		
 -128	15
 
+384	33	
+		48,32,6,1,1	52,32,6,1,0	60,33,6,0,0	68,33,6,0,1
+256	32
+
 
 128	32
 		69,29,6,1,1	965,29,6,1,0	1096,32,6,0,0	1095,32,6,0,1
@@ -69,6 +73,10 @@ floor	lineid	destTag	selfTag	type	anchor
 [128, SW stair end to 0 E stair end. This fucks with heights...]
 128	146	4	3	2	2
 0	143	3	4	2	2
+
+
+line portal puzzle:
+IDs 40 - 48
 
 
 
