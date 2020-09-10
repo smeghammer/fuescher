@@ -29,6 +29,13 @@ floor	tag	Top left	Bottom left	Top right	Bottom right
 -128	15
 
 
+128	32
+		69,29,6,1,1	965,29,6,1,0	1096,32,6,0,0	1095,32,6,0,1
+0	29
+
+
+
+
 horizontal portals (line special = 156) between walls. Pair of rows represents
 a two-way portal:
 
@@ -62,7 +69,6 @@ floor	lineid	destTag	selfTag	type	anchor
 [128, SW stair end to 0 E stair end. This fucks with heights...]
 128	146	4	3	2	2
 0	143	3	4	2	2
-
 
 
 
