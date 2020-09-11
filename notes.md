@@ -109,6 +109,12 @@ Execution could not continue.
 Could not realloc 16951417536 bytes
 
 
+11/09/20 
+--------
+ - make line portal puzzle with curves· Need to plan this one...
+ - need drawing (gdoc etc)
+
+
 
 
 
