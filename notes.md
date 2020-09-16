@@ -114,9 +114,45 @@ Could not realloc 16951417536 bytes
  - make line portal puzzle with curves· Need to plan this one...
  - need drawing (gdoc etc)
 
+Circle of despair logic:
+------------------------
+ - Numbering is clockwise, start at top (1 o'clock); left then right segments.
+ - Each quadrant is z-offset by 64MUs
+ - 
 
 
+self	target 		route		orientation	position	notes
+-----------------------------------------------------------------------------
+40	41		1		V		[entrance]	
+41					V		L, NNE		forward
+									
+42					H		L, ENE		
+43					H		L, ESE		
+									
+44					V		L, SSE		
+45			2		V		L, SSW		
+									
+46	50		3		H		L, WSW		
+47					H		L, WNW		
+									
+48					V		L, NNW		
+49	56		5		V		R, NNE		
+									
+50	49		4		H		R, ENE		back
+51					H		R, ESE		
+									
+52					V		R, SSE		
+53					V		R, SSW		
+									
+54					H		R, WSW		
+55					H		R, WNW		
+									
+56					V		R, NNW		exit
+			
 
+ - Lighted candles flag the correct route
+	- may be back the way you came...
+ - each central branch allows view into central column (which is a sector portal) except the exit.
 
 
 
