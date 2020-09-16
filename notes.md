@@ -37,7 +37,9 @@ floor	tag	Top left	Bottom left	Top right	Bottom right
 		69,29,6,1,1	965,29,6,1,0	1096,32,6,0,0	1095,32,6,0,1
 0	29
 
-
+320	58
+		1661,57,6,1,1	1675,57,6,1,0	1649,58,6,0,0	1673,58,6,0,1
+0	57
 
 
 horizontal portals (line special = 156) between walls. Pair of rows represents
@@ -154,9 +156,16 @@ self	target 		route		orientation	position	notes
 	- may be back the way you came...
  - each central branch allows view into central column (which is a sector portal) except the exit.
 
+route:
+IN	OUT	TARGET	NOTES
+-----------------------------
+41	41	45	reverse
+45	46	51	ahead
+51	51	54	reverse
+54	54	43	straight
+43	44	56	straight
 
-
-
+THIS WORKS. Add direction flag to OTHER side of portal
 
 
 
