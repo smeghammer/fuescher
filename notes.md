@@ -174,5 +174,38 @@ All Keys needed to access highest three floors (need to add another floor). Each
 has a switch that will open part of the exit cage.
 
 
+18/09/2020:
+-----------
+ - recursive spiral stair. 
+ - look OUT through top from window(s)?
+ - WTF with the fly thing?
+ - continue library
+	- make central portal a stair (gate at top so cannot go UP until got key)?
+
+
+library window logic:
+---------------------
+type 1, visual only?
+1: library window from inside
+	looking out, target SHED
+
+2: library window from OUTSIDE
+	look up from floor, looking IN, see library interior
+
+3: SHED window from outside
+	looking IN, see library interior
+
+line IDs:
+library window (ext)	62
+library window (int)	61
+shed window		60
+
+
+
+
+
+
+
+
 
 
