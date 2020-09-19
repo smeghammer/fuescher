@@ -176,7 +176,7 @@ has a switch that will open part of the exit cage.
 
 18/09/2020:
 -----------
- - recursive spiral stair. 
+ - recursive spiral stair. 			X
  - look OUT through top from window(s)?
  - WTF with the fly thing?
  - continue library
@@ -202,7 +202,23 @@ shed window		60
 
 
 
+09:47 19/09/2020
+------------------
 
+ - 3-way thrick for keys viewing
+ - need yellow key!!!
+ - add windows on all upper blocks
+ - add corresponding windows
+ - LINE PORTAL TABLE!!!
+ - try Escher waterfall
+ - LINE portal from library to other sector floor? (STAIRS??)
+
+ - Make courtyard portals into a U shape thing... Have one window that actually looks through, just to confuse.
+
+LINE IDs
+--------
+line #		line ID		pos (x,y)
+-----------------------------------------
 
 
 
