@@ -223,5 +223,12 @@ line #		line ID		pos (x,y)
 
 
 
+21/09/2020:
+-----------
+ - adjust sewer/library linedef textures
+bstone2
+rrock12
+
+Tag (84) for hidden door in library upper. Need to add switch in library lower to open it.
 
 
