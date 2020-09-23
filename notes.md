@@ -232,3 +232,121 @@ rrock12
 Tag (84) for hidden door in library upper. Need to add switch in library lower to open it.
 
 
+22/09/2020:
+-----------
+
+Line Portals:
+-------------
+
+line	target	pos		notes
+-------------------------------------
+
+library lower
+81	80	790,4190	exit to library upper
+----------------------------------------------------------
+
+library upper
+-------------
+80	81	-320,3000	exit to library lower
+84	83	240,2600	drain exit to yellow key
+24	25	0,2160		main exit to exterior
+
+observation post
+----------------
+1	2	-330,760
+23	22	200,460
+6	5	0,230
+3	4	-600,-230
+----------------------------------------------------------
+
+north main room
+---------------
+21	20	0,40
+88	0	-260,-90	out only
+70	71	-150,-720	WINDOW
+----------------------------------------------------------
+
+south main room
+---------------
+0	0	-160,-816	WINDOW [not set]
+2	1	336,-1024	east exit
+4	3	608,-960	SSE exit corridor
+40	41	-320,-1440	SSW exit corridor to circle puzzle
+60	0	0,-1750		S [out only]
+31	30	-448,-1896	W exit, lava trap
+31	30	-456,-1664	W exit, RETURN ONLY redirects to lava trap
+----------------------------------------------------------
+
+cellar
+------
+5	6	0,-2400		main room exit
+22	23	864,-1960
+78	77	864,-2104	WINDOW
+----------------------------------------------------------
+
+lava cave
+---------
+30	31	1120,-1544	north exit
+89	88	1840,-1888	east exit
+----------------------------------------------------------
+
+LH circle
+---------
+41	45	1016,-50
+42	51	1310,-300
+43	50	1310,-450
+44	56	1030,-750
+61	60	960,-670
+45	52	890,-730
+46	51	600,-450
+47	55	608,-320
+48	49	896,-32		exit sector
+
+RH circle
+---------
+49	56	1984,-40
+50	55	2272,-320
+51	54	2272,-456	exit sector
+52	45	1984,-744
+53	48	1864,-744	
+54	43	1568,-456
+55	51	1568,-320
+56	48	1856,-32
+
+
+courtyard windows
+-----------------
+
+
+
+exterior windows [3rd floor]
+----------------------------
+62	63	West		WINDOW 
+-	-	North		WINDOW [not set]
+-	-	East		WINDOW [not set] 
+-	-	South		WINDOW  [not set]
+
+exterior windows [2nd floor]
+----------------------------
+
+exterior windows [1st floor]
+----------------------------
+
+exterior windows [Gnd floor]
+----------------------------
+
+
+
+
+
+haha - make the return from the lava pit a portal to the lava pit!!!
+ - done, need to add an exit and HIDE the secret door..
+
+ - need to add lights everywhere.
+
+
+
+
+
+
+
