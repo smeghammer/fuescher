@@ -363,3 +363,13 @@ Escape via 1st level of red key?
 
 
 Library lower drop-through logic??TODO
+
+
+Inaccessible bits of tower - make secret?
+ - add jaw things, but closed - so you cant jump n by mistake
+ - add switch n one to lower jaws of other so you can escape again.
+ - add secretty thking
+ - make iron/blood themed?
+
+OK - lower RH is target for secret portal (where??). This has jaw-things but UP. Another 
+
