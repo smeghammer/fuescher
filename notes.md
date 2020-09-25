@@ -345,8 +345,21 @@ haha - make the return from the lava pit a portal to the lava pit!!!
  - need to add lights everywhere.
 
 
+11:12 24/09/2020
+-----------------
+
+door at 72, -1696 needs to be triggered remotely. Tag=102
+
+
+sort out blue and yellow keys:
+ - order not yet correct... I need to get the YELLOW key last.
+
+
+10:53 25/09/2020
+----------------
+
+Escape via 1st level of red key?
 
 
 
-
-
+Library lower drop-through logic??TODO
