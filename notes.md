@@ -389,5 +389,6 @@ final secret puzzle:
 28/09/2020:
 -----------
 make super-secret level lava with cage all around
+ - actually sky and metal.
 
 
