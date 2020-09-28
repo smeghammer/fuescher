@@ -373,3 +373,21 @@ Inaccessible bits of tower - make secret?
 
 OK - lower RH is target for secret portal (where??). This has jaw-things but UP. Another 
 
+
+18:58 27/09/2020
+----------------
+final secret puzzle:
+1: arrive at NW tele dest
+ - Drop into lower area (E)
+ - bottom area switch opens spiral area button (S) ALSO opens beasts in lower area (NE) 
+2: teleport back up
+ - activate South switch (drops teeth AND West switch)
+ - drop down to exit area or:
+ - activate East swicth to open sectret secret tele (NNW),
+
+
+28/09/2020:
+-----------
+make super-secret level lava with cage all around
+
+
