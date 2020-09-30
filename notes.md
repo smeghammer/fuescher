@@ -392,3 +392,49 @@ make super-secret level lava with cage all around
  - actually sky and metal.
 
 
+30/09/2020:
+-----------
+Tags as of this date (UDB):
+5
+6
+7
+8
+9
+15
+16
+17
+22
+23
+24
+25
+26
+27
+28
+29
+32
+33
+57
+58
+59
+84
+102
+122
+151
+152
+153
+154
+155
+156
+
+exit seq:
+---------
+
+Add bars to exit.
+Add switch for this in new area, but fenced off from the super super secret bit.
+
+
+
+
+
+
+
