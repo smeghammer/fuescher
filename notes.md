@@ -434,7 +434,36 @@ Add switch for this in new area, but fenced off from the super super secret bit.
 
 
 
+13:29 01/10/2020
+----------------
+
+sound from https://www.freesoundeffects.com/free-sounds/fire-10007/
+
+TODO:
+-----
+library upper 
+	- stair wall texture -grey
+	- bok column align
+ 	- Lower door and flag with flicker or similar
+	- doortrak!!!
+
+big stair upper
+	- adjust light
 
 
+Need to add final secret source teleporter. From exit room
 
+ - fall all the way back, but give LOADS of ammo etc. Monster closets openin cellar and 1st floor (and possibly others?) to make a big fucking battle on the way out
+	- need teleporter rather than portal from  -1760,-1736 to LIBRARY UPPER UPPER secret. Only if you get to the last secret will monster closets tigger (you can get out before, by dropping down foorm secret area 1)
+
+
+ - crossing tele exit line in secret area opens all lower monster closets.
+ - crossing SUPER SECRET tele exit opens more? (archvile?)
+
+ - add monser closet to lava area too
+
+
+Unfinished tunnel in main area nees to go somewhere...
+
+Also - add beams under roofs.
 
