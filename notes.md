@@ -434,6 +434,7 @@ Add switch for this in new area, but fenced off from the super super secret bit.
 
 
 
+
 13:29 01/10/2020
 ----------------
 
@@ -466,4 +467,36 @@ Need to add final secret source teleporter. From exit room
 Unfinished tunnel in main area nees to go somewhere...
 
 Also - add beams under roofs.
+
+monsters in library lower. Trigger MORE on switching in small office	DONE
+monster in sewer closet (dormant??)					DONE
+redo lights on sewer top!!!						DONE
+blue key!!! WTF?							DONE
+health in library window						DONE
+textue in cellar closet							DONE
+circle puzzle - monsters around corners					DONE
+soul sphere needs to be a secret					DONE
+library upper - door to lower needs to be better flagged, 		DONE
+	and adjust ceiling texture!!!
+sewer texture AGAIN!!!							DONE
+another dormant monster in cellar					DONE
+move monster away from portal - wierd things if use chainsaw 		DONE
+	(its teh yellow ket bit exit)		
+mark switch in library lower room					DONE
+improve circle exit...
+corridor windowsills - too bright					
+blue and rfed main door target sector too bright
+
+tele target too narrow for cacos. Change to skulls
+tele spot to left of library lower small room exit not placed correctly?
+sewer missed a water lfat!!
+spectre stuck in super secret area by switch
+shells under  corner - need to raise.
+better deoms in final ssecret closets, LINK the closets so you don't need to bugger about with the portals 
+mid door main silo - adjust floor from metal
+
+
+
+
+
 
