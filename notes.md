@@ -497,6 +497,8 @@ mid door main silo - adjust floor from metal
 
 
 
+ - adjust cirle puzzle to use alt door face rather than candles. Might be clearer...
+Also, portals need to be CLOSER to the doors!
 
 
 
