@@ -169,6 +169,8 @@ EXIT	ENTRY	TARGET	DIRECTION ON EXIT	PORTAL POS	NOTES
 
 THIS WORKS. Add direction flag to OTHER side of portal
 
+TODO:
+
 
 All Keys needed to access highest three floors (need to add another floor). Each accessed floor 
 has a switch that will open part of the exit cage.
@@ -501,4 +503,22 @@ mid door main silo - adjust floor from metal
 Also, portals need to be CLOSER to the doors!
 
 
+REVISIT THIS!!!:
+ - Lighted candles flag the correct route
+	- may be back the way you came...
+ - each central branch allows view into central column (which is a sector portal) except the exit.
 
+route:
+PORTALS
+EXIT	ENTRY	TARGET	DIRECTION ON EXIT	PORTAL POS	NOTES
+---------------------------------------------------------------------
+41	41	45	go back through		L:NNE/L:NNE	arrive from corridor
+45	46	51	go ahead to next	L:SSW/L:WSW
+51	51	54	go back through		R:ESE/R:ESE
+54	53	48	go ahead to next	R:WSW/R:SSW
+48	47	55	go ahead to next	L:NNW/L:WNW
+55			*** EXIT PUZZLE ***	R:WNW  
+
+THIS WORKS. Add direction flag to OTHER side of portal
+
+TODO: I might be able to do it such that the candle you need to follow is ALREADY lit on passing throuh the portal, and STAYS lit (basically, play with the visibility of candle either side of he portal - you will be seeing DIFFERENT candles of course, but as you gp through the portal it will remain lit etc. TODO)
