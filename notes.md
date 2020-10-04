@@ -522,3 +522,49 @@ EXIT	ENTRY	TARGET	DIRECTION ON EXIT	PORTAL POS	NOTES
 THIS WORKS. Add direction flag to OTHER side of portal
 
 TODO: I might be able to do it such that the candle you need to follow is ALREADY lit on passing throuh the portal, and STAYS lit (basically, play with the visibility of candle either side of he portal - you will be seeing DIFFERENT candles of course, but as you gp through the portal it will remain lit etc. TODO)
+
+
+09:24 04/10/2020:
+-----------------
+
+ - Make archvile area better combat - ie allow backing out wirhout portal getting in he way.
+ - Can I improve the main entry doors in this way?
+ - SKY PORTALS!!! :ook nto why loking DOWN fails... Is this just because the space behind the door is too ig? ALSO, are any of them on SAME level so I can use interactive portal
+ - DEBUG console mesages!
+	Set up logging to text file
+
+11:14 04/10/2020
+----------------
+
+BUG
+bottom main door:
+portal def: 156, 60,61,1,2
+
+Grab red key - opens a closet, force you to run for the baron door... - OK
+
+wierd bug between wheel portals between line IDs 1102 and 1300. "Link offset mismatch between sectors 218 and 277" not sure why...
+
+Console otpu:
+
+
+Unknown bottom texture '-W' on first side of linedef 4077
+Unknown bottom texture '-W' on first side of linedef 4099
+Link offset mismatch between sectors 218 and 277
+
+
+These texture errors are also not ctually there. WTF 
+
+
+ - Make top exit from silo longer so you don't back out into the circle maze - OK
+ - put SSG at silo exit not CGUN -  OK
+ - soulspher sector, flag as secret - OK
+ - check library lower secret is accessible!! - OK
+ - exit from lava GREY1 textures. FIX - OK
+ - health in lava trap - OK
+
+
+ - Check main door floor tex!!
+ - SILO EXIT TEXTURE!!!!!!!
+ - yellow key seer wate tex!! - OK
+ - add exit line action
+ - add barons to final trap
