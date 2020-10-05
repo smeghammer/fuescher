@@ -568,3 +568,37 @@ These texture errors are also not ctually there. WTF
  - yellow key seer wate tex!! - OK
  - add exit line action
  - add barons to final trap
+
+
+08:33 05/10/2020:
+-----------------
+
+ - add switch to library upper for sewer 	- OK
+ - swap archvile switch for library reading room switch 
+	- reading room switch should open final barrier
+	- add visual portal here!!t
+	- actually type1. Sky is a bit screwed, but works. Can see the barrier come down.
+ - Archvile switch to do what????
+ - put tele for secret area in lava room?
+ 	- currently, this goes to backpack secret.
+	- put backpack secret portal behind bookcase?		- DONE
+
+ - connect iron room switch to exit barrier as well?
+	- remove tele to secret area and add tolava secret room instead.	OK
+	- ALSO make this trigger the lower monster traps, and remove from iron box?
+ - archvile room accessed much earlier?
+	- Add tele HERE to upper secret room? Makes more sense I think.
+
+
+ block archie from tele!
+add more powerful monster to closets
+archvile corridor needs to tele to iron box
+
+iron box put better thing in secret area
+
+SILO UPPER- small door should notgo  back into circle maze. CHANGE.
+
+exit tele goes to iron room. Something else does as well?
+
+
+huge marble halls like dwarf halls!!!!
